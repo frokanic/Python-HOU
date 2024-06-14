@@ -9,6 +9,7 @@ present in older books.
 def main():
     wish_for_age_milestones()
 
+
 def sell_alcohol():
     age = int(input("Please enter your age: "))
 
