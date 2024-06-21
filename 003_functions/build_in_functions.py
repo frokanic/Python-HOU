@@ -36,6 +36,12 @@ instructors_with_short_names = list(
     )
 )
 
+"""any and all"""
+# TODO: They are related to list comprehension. Will fill later!
+
+
+
+
 if __name__ == "__main__":
     main()
 
